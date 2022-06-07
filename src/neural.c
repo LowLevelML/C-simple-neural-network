@@ -1,9 +1,8 @@
-#include "./include/main.h"
 #include "./include/neural.h"
 #include <stdio.h>
 
-int main()
+int neural()
 {
-    neural();
+    printf("Tmp");
     return 0;
 }
