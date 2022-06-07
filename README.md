@@ -4,7 +4,7 @@ This is a simple neural network written in c (check the [src](./src/) directory)
 
 <hr>
 
-# Explanation
+# Explanation (view it in PY-simple-neural-network)
 
 So first you need an input matrix
 
