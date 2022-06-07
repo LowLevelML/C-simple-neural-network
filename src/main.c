@@ -4,6 +4,6 @@
 
 int main()
 {
-    neural();
+    neural(0, 1, 1);
     return 0;
 }
